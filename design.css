@@ -1,4 +1,9 @@
 body {background-color: greenyellow}
-h1 {text-align: center}
+h1 {font-size: 40px}
+h2 {font-size: 30px}
+h3 {font-size: 25px}
+h4 {font-size: 20px}
 
-.header {background-color: red; height: 100px; width: fit-content}
+.header {background-color: red; height: 100px; width: 100%; text-align: center;}
+.meny {line-height: 0.1}
+.center {background-color: yellow; height: 400px; text-align: center}
